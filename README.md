@@ -1,1 +1,1 @@
-# ST-81-Boilerplate
+# SPECT-Boilerplate
